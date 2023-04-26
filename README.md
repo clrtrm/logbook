@@ -1,13 +1,12 @@
 # logbook
 
-#### 2023-04-13
-- **A/B testing:** a **variation** of a webpage or app is compared against a **control version**; statistical analysis is used to determine which one generates more engagement / performs better.
-- "*Testing one change at a time helps them pinpoint which changes had an effect on visitor behavior, and which ones did not. Over time, they can combine the effect of multiple winning changes from experiments to demonstrate the measurable improvement of a new experience over the old one*". [A/B testing](https://www.optimizely.com/optimization-glossary/ab-testing/), Optimizely.
-- **CRO:** conversion rate optimization
-
-#### 2023-04-23
-- read [Why review code?](https://sophiebits.com/2018/12/25/why-review-code.html) by Sophie Alpert
-  - bus factor: the minimum number of team members that have to suddenly disappear from a project before the latter stalls due to a lack of knowledgeable or competent personnel
+#### 2023-04-26
+- `Foundations > Introduction > Introduction to web development` ([link](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development))
+  - read [Why Learning to Code is So Damn Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/) by Erik Trautman
+  - read [Ryan Barr's answer](https://www.quora.com/Computer-Programming/How-can-I-become-a-really-good-web-developer-starting-from-now-at-age-20-before-age-25) to *"How can I become a really good web developer?"* on Quora
+    - tl;dr: passion, purpose, community, theory, practice, care
+  - read [John Morris' answer](https://www.quora.com/What-makes-an-excellent-web-developer-What-qualities-do-people-look-for-in-their-staff-consultants-and-freelance-contractors-when-they-hire-a-web-developer-to-build-a-Web-site) to *"What makes an excellent web developer?"* on Quora 
+    - tl;dr: commitment, focus, work ethic, drive, detail-orientation, reliability, communication, ease of work with, ability to learn quickly
 
 #### 2023-04-25
 - unboxed the Logitech MX Vertical as part of my *Logitech ergonomic mice benchmark*
@@ -33,3 +32,12 @@
   - The slash `/` stands for the whole website content
   - Comments can be used
   - It is possible to list multiple robots with their own rules
+
+#### 2023-04-23
+- read [Why review code?](https://sophiebits.com/2018/12/25/why-review-code.html) by Sophie Alpert
+  - bus factor: the minimum number of team members that have to suddenly disappear from a project before the latter stalls due to a lack of knowledgeable or competent personnel
+
+#### 2023-04-13
+- **A/B testing:** a **variation** of a webpage or app is compared against a **control version**; statistical analysis is used to determine which one generates more engagement / performs better.
+- "*Testing one change at a time helps them pinpoint which changes had an effect on visitor behavior, and which ones did not. Over time, they can combine the effect of multiple winning changes from experiments to demonstrate the measurable improvement of a new experience over the old one*". [A/B testing](https://www.optimizely.com/optimization-glossary/ab-testing/), Optimizely.
+- **CRO:** conversion rate optimization
