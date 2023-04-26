@@ -7,6 +7,8 @@
     - tl;dr: passion, purpose, community, theory, practice, care
   - read [John Morris' answer](https://www.quora.com/What-makes-an-excellent-web-developer-What-qualities-do-people-look-for-in-their-staff-consultants-and-freelance-contractors-when-they-hire-a-web-developer-to-build-a-Web-site) to *"What makes an excellent web developer?"* on Quora 
     - tl;dr: commitment, focus, work ethic, drive, detail-orientation, reliability, communication, ease of work with, ability to learn quickly
+  - read [What Makes A Good Developer?](http://jaredthenerd.com/2013/05/What-Makes-A-Good-Developer/) by Jared the Nerd
+    - tl;dr: excitement about building things and solving problems
 
 #### 2023-04-25
 - unboxed the Logitech MX Vertical as part of my *Logitech ergonomic mice benchmark*
