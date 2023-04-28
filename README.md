@@ -9,6 +9,16 @@
   - read [Deliberate Programming Practice](https://codequizzes.wordpress.com/2013/04/28/deliberate-programming-practice/) on Ruby/Rails Programming
     - tl;dr: it takes 10,000 hours of deliberate practice to achieve mastery in a craft: about 26 years if "only" working fulltime
   - bookmarked kamranahmedse's [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) repo (jump to [Frontend Developer Roadmap](https://roadmap.sh/frontend))
+- `Foundations > Introduction >  Motivation and Mindset` ([link](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development))
+  - watched [The power of believing that you can improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?) by Carol Dweck
+    - tl;dw: the power of "yet", growth mindset, praise the process *(perseverance, improvement, resilience)* rather than the outcome, innate trait or talent
+  - watched [Grit: The power of passion and perseverance](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/c) by Angela Lee Duckworth
+    - tl;dw: stamina, marathon, future
+  - read [The learning myth: Why I'll never tell my son he's smart](https://www.khanacademy.org/college-careers-more/talks-and-interviews/talks-and-interviews-unit/conversations-with-sal/a/the-learning-myth-why-ill-never-tell-my-son-hes-smart) by Sal Khan
+    - tl;dr: *"neural connections form and deepen most when we make mistakes doing difficult tasks rather than repeatedly having success with easy ones"*, *"process praise acknowledges the effort; talent praise reinforces the notion that one only succeeds (or doesn’t) based on a fixed trait"*
+  - focus mode vs diffuse mode
+  - understand, practice, teach
+  - saved [Learning how to learn](https://www.coursera.org/learn/learning-how-to-learn?action=enroll) by Barbara Oakley for later
   
 #### 2023-04-26
 - `Foundations > Introduction > Introduction to web development` ([link](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development))
