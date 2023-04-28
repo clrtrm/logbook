@@ -1,5 +1,15 @@
 # logbook
 
+#### 2023-04-28
+- `Foundations > Introduction > Introduction to web development` ([link](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development))
+  - read [Things I Wish Someone Had Told Me When I Was Learning How to Code](https://www.freecodecamp.org/news/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329/) by Cecily Carver
+    - tl;dr: have *"faith that things are going wrong for a logical and discoverable reason [...] problems are fixable [...] there is a way to accomplish the goal"*; accept that *"someone will always tell you you're doing it wrong [...] you're not a real coder"*
+  - read [Don’t Believe Anyone Who Tells You Learning To Code Is Easy](https://techcrunch.com/2014/05/24/dont-believe-anyone-who-tells-you-learning-to-code-is-easy/) by Kate Ray
+    - tl;dr: neither mastery nor final level. *"The anxiety of feeling lost and stupid is not something you learn to conquer, but something you learn to live with"*
+  - read [Deliberate Programming Practice](https://codequizzes.wordpress.com/2013/04/28/deliberate-programming-practice/) on Ruby/Rails Programming
+    - tl;dr: it takes 10,000 hours of deliberate practice to achieve mastery in a craft: about 26 years if "only" working fulltime
+  - bookmarked kamranahmedse's [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) repo (jump to [Frontend Developer Roadmap](https://roadmap.sh/frontend))
+  
 #### 2023-04-26
 - `Foundations > Introduction > Introduction to web development` ([link](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development))
   - read [Why Learning to Code is So Damn Hard](https://www.thinkful.com/blog/why-learning-to-code-is-so-damn-hard/) by Erik Trautman
