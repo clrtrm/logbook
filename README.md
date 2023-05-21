@@ -1,4 +1,18 @@
 # logbook
+#### 2023-05-21
+- `Foundations > Introduction >  Motivation and Mindset` ([link](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset))
+  - for early-stage coders, the use of Large Language Models (LLMs) and generative AIs (e.g. GitHub Copilot, ChatGPT) is discouraged:
+    1. *By using a generative AI, learners may miss the opportunity to discover how something works and why things are done that way.*
+    2. *Asking good questions is an important skill to have, and using generative AI to skip asking people (like our helpful Discord community) means that your development of this skill is delayed.*
+    3. *Learning to talk about the code that one writes is another important skill. In a professional environment, it is highly likely that you will be doing code reviews where you have to explain the how and why behind what you are presenting. Using the Odin community to ask good questions about your code when you require help can help develop this skill as well.*
+    4. *As David Humphrey mentions, the output of generative AI must be closely scrutinized, and learners who are new to programming generally don’t have a good overall understanding to be able to determine if the output is good or bad.
+    5. *While learning how to provide good prompts to an AI tool is a skill, it is one that is supplementary to developing foundational programming skills. The Odin curriculum strives to teach that foundational skill.*
+    6. *AI tools are designed to answer questions and are not designed to help learners develop research and problem solving skills. If you ask an AI for information, it will provide information to you. If you ask a human, they may invite you to share your understanding of the problem and offer some guidance on how to discover a solution.*
+    7. *Without practice in research, problem solving and critical thinking, interviews could be a struggle since it is very likely that applicants would not be allowed to use AI tools.*
+  - read [CheatGPT](https://blog.humphd.org/cheatgpt/) by David Humphrey
+    - an interesting take would be difficult to summarize without denaturing, enjoyed the nuanced yet crisp writing style
+  - read [How Taking More Breaks Will Boost Your Productivity](https://simpleprogrammer.com/taking-breaks-will-boost-productivity/) by Saeed Gatson
+    - tl;dr: both macro-breaks (vacations) and micro breaks (coffee chat, lunch break) are beneficial for energy and mindset. *"mental concentration is similar to a muscle. It becomes fatigued after sustained use and needs a rest period"*
 
 #### 2023-04-28
 - `Foundations > Introduction > Introduction to web development` ([link](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development))
@@ -9,7 +23,7 @@
   - read [Deliberate Programming Practice](https://codequizzes.wordpress.com/2013/04/28/deliberate-programming-practice/) on Ruby/Rails Programming
     - tl;dr: it takes 10,000 hours of deliberate practice to achieve mastery in a craft: about 26 years if "only" working fulltime
   - bookmarked kamranahmedse's [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) repo (jump to [Frontend Developer Roadmap](https://roadmap.sh/frontend))
-- `Foundations > Introduction >  Motivation and Mindset` ([link](https://www.theodinproject.com/lessons/foundations-introduction-to-web-development))
+- `Foundations > Introduction >  Motivation and Mindset` ([link]([https://www.theodinproject.com/lessons/foundations-introduction-to-web-developmen](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset))
   - watched [The power of believing that you can improve](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve?) by Carol Dweck
     - tl;dw: the power of "yet", growth mindset, praise the process *(perseverance, improvement, resilience)* rather than the outcome, innate trait or talent
   - watched [Grit: The power of passion and perseverance](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance/c) by Angela Lee Duckworth
