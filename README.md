@@ -1,4 +1,9 @@
 # logbook
+#### 2023-06-02
+- `Foundations > Introduction >  Motivation and Mindset` ([link](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset))
+  - read [How to Get Motivated: The “Do Something” Principle](https://markmanson.net/how-to-get-motivated) by Mark Manson
+    - tl;dr: action creates motivation. small gains shape a friendlier starting point for future further actions. the belief that motivation comes first is flawed as efforts are often hindered by the symptoms of the problem *(working on a relationship to suppress resentment can be postponed out of such resentment, going to the gym to suppress a poor body image can be postponed because of such image)*. develop a ritual, cut distractions, and uncover the reasons for your lack of motivation.  
+
 #### 2023-05-21
 - `Foundations > Introduction >  Motivation and Mindset` ([link](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset))
   - for early-stage coders, the use of Large Language Models (LLMs) and generative AIs (e.g. GitHub Copilot, ChatGPT) is discouraged:
