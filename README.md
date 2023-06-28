@@ -1,4 +1,21 @@
 # logbook
+
+#### 2023-06-28
+- `JavaScript > A bit of computer science > Recursive methods` ([link](https://www.theodinproject.com/lessons/javascript-recursive-methods))
+  - watched [Recursion](https://www.youtube.com/watch?v=mz6tAJMVmfM) from the CS50 course
+    - fibonacci, collatz
+  - read the [Implementation issues](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm#Implementation_issues) section from the Divide-and-conquer Wikipedia article
+  - solved 4 out of 9 recursion problems on [CodinGame](https://www.codingame.com/playgrounds/5422/js-interview-prep-recursion)
+
+- `JavaScript > A bit of computer science > Time complexity` ([link](https://www.theodinproject.com/lessons/javascript-time-complexity))
+  - code efficiency is measured in *time complexity* and *space complexity*
+  - **time complexity:**
+    - an algorithm takes a certain number of steps to complete
+    - this number may change when the data passed to the algorithm (i.e. its parameters) changes
+    - we want to measure this change: how our algorithm scales
+    - asymptotic notations describe the running time of an algorithm
+    - the most common are: big O notation, Omega notation and Theta notation
+
 #### 2023-06-27
 - `JavaScript > A bit of computer science > A very brief intro to CS` ([link](https://www.theodinproject.com/lessons/javascript-a-very-brief-intro-to-cs))
   - watched [Introduction to Algorithms](https://ed.ted.com/lessons/your-brain-can-solve-algorithms-david-j-malan) by David J. Malan
@@ -11,7 +28,17 @@
     - [failover](https://www.fortinet.com/resources/cyberglossary/failover): *"switching to a computer, system, network, or hardware component that is on standby if the initial system or component fails" "switchover requires human intervention to initiate the transition"*
   - watched [What is Pseudocode?](https://www.youtube.com/watch?v=Rg-fO7rDsds) by  Heidi Gentry Kolen
   - watched [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA) by Domain of Science x2
-  
+
+- `JavaScript > A bit of computer science > Recursive methods` ([link](https://www.theodinproject.com/lessons/javascript-recursive-methods))
+  - read [Recursion and stack](https://javascript.info/recursion) on javascript.info
+    - recursion: *a programming term that means calling a function from itself*
+    - two cases: base of recursion and recursive step
+    - execution context and execution context stack
+    - contexts take memory. loops can often be more effective. any recursion can be rewritten as a loop
+    - recursion depth
+    - recursive data structures: departments of an organization, nuclear families, HTML elements, linked lists
+  - watched [What is Recursion](https://www.youtube.com/watch?v=6oDQaB2one8) by Web Dev Simplified
+
 #### 2023-06-02
 - `Foundations > Introduction >  Motivation and Mindset` ([link](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset))
   - read [How to Get Motivated: The “Do Something” Principle](https://markmanson.net/how-to-get-motivated) by Mark Manson
