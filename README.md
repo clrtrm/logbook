@@ -1,4 +1,17 @@
 # logbook
+#### 2023-06-27
+- `JavaScript > A bit of computer science > A very brief intro to CS` ([link](https://www.theodinproject.com/lessons/javascript-a-very-brief-intro-to-cs))
+  - watched [Introduction to Algorithms](https://ed.ted.com/lessons/your-brain-can-solve-algorithms-david-j-malan) by David J. Malan
+  - watched [What is an Algorithm?](https://www.youtube.com/watch?v=e_WfC8HwVB8) by Tech Policy Lab, University of Washington
+  - read recommended answers to [What is the importance of algorithms in web development?](https://www.quora.com/Algorithms/What-is-the-importance-of-algorithms-in-web-development)
+    - tl;dr: makes you better equipped, but it is mostly not necessary / does not make a huge difference. do not reinvent the wheel: *"you can probably go years as a web developer, and build exciting new apps without ever having to think about algorithms yourself"*. design apps that separate concerns: *"web apps that contain some serious data processing are flawed by design, and should be freed of any data processing"*. Focus on fitness for purpose and performance optimization.
+  - did further researches about:
+    - [load balancing](https://aws.amazon.com/what-is/load-balancing/): *"the method of distributing network traffic equally across a pool of resources that support an application"*
+    - [fault tolerance](https://www.fortinet.com/resources/cyberglossary/fault-tolerance): *"the system’s ability to continue operating despite failures or malfunctions"*
+    - [failover](https://www.fortinet.com/resources/cyberglossary/failover): *"switching to a computer, system, network, or hardware component that is on standby if the initial system or component fails" "switchover requires human intervention to initiate the transition"*
+  - watched [What is Pseudocode?](https://www.youtube.com/watch?v=Rg-fO7rDsds) by  Heidi Gentry Kolen
+  - watched [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA) by Domain of Science x2
+  
 #### 2023-06-02
 - `Foundations > Introduction >  Motivation and Mindset` ([link](https://www.theodinproject.com/lessons/foundations-motivation-and-mindset))
   - read [How to Get Motivated: The “Do Something” Principle](https://markmanson.net/how-to-get-motivated) by Mark Manson
